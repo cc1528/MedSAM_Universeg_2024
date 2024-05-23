@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/MedSAM/MedSAM" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/UniverSeg-main/UniverSeg-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MedSAM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UniverSeg-eda" vcs="Git" />
   </component>
 </project>

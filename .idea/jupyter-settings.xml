@@ -3,22 +3,6 @@
   <component name="JupyterPersistentConnectionParameters">
     <option name="moduleParameters">
       <map>
-        <entry key="$USER_HOME$/Documentos/ams/data_science/actual_thesis/codes/Left_Ventricle_Segmentation-main/.idea/Left_Ventricle_Segmentation-main.iml">
-          <value>
-            <JupyterConnectionParameters>
-              <option name="managed" value="true" />
-              <option name="sdkHomePath" value="C:\Users\cinth\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
-            </JupyterConnectionParameters>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Documentos/ams/data_science/y2/big_data/lab/BigDataProject/.idea/BigDataProject.iml">
-          <value>
-            <JupyterConnectionParameters>
-              <option name="managed" value="true" />
-              <option name="sdkHomePath" value="C:\Users\cinth\anaconda3\python.exe" />
-            </JupyterConnectionParameters>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/../Left_Ventricle_Segmentation-main/.idea/Left_Ventricle_Segmentation-main.iml">
           <value>
             <JupyterConnectionParameters>
