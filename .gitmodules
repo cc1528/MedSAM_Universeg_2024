@@ -1,6 +1,8 @@
 [submodule "UniverSeg-eda"]
 	path = UniverSeg-eda
 	url = https://github.com/cc1528/UniverSeg-eda.git
+
 [submodule "MedSAM"]
 	path = MedSAM
 	url = https://github.com/cc1528/MedSAM.git
+	branch = main
