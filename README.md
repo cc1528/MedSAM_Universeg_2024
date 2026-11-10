@@ -40,7 +40,7 @@ The repository contains the implementations and experimental code used in the th
 
 ### Additional Data Exploration
 
-The [`eda_data_extraction/`](eda_data_extraction/) folder contains an archived Python script from earlier exploratory work.
+The [`eda_data_extraction/`](https://github.com/cc1528/MedSAM_Universeg_2024/blob/main/datasets/eda_data_extraction.py) folder contains an archived Python script from earlier exploratory work.
 
 The script demonstrates how structured MATLAB medical imaging files were used to extract ultrasound frames and anatomical contour annotations and generate PNG visualizations.
 
